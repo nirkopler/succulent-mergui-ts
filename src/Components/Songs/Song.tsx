@@ -1,10 +1,11 @@
 import React from 'react';
-import { songLine } from '../../Data/songs';
+import { songLineData } from '../../Data/songs';
 import './Song.scss';
 
 interface ISong {
     title: string;
-    data: songLine[];
+    data: songLineData[];
+    currentIndex: number;
 }
 
 const Song: React.FC<ISong> = (p: ISong) => {
@@ -13,6 +14,22 @@ const Song: React.FC<ISong> = (p: ISong) => {
             <div className='song-name'>
                 <span>{p.title}</span>
             </div>
+            {p.data.map((e, i) => {
+                if (e.text.length > 0) {
+                    const isCurrentLine = p.currentIndex - 2 < i && i < p.currentIndex;
+                    return (
+                        <div
+                            style={{
+                                backgroundColor: isCurrentLine ? 'yellow' : '',
+                            }}>
+                            <span>{e.text}</span>
+                            <span> {e.time}</span>
+                        </div>
+                    );
+                } else {
+                    return <br />;
+                }
+            })}
         </div>
     );
 };
