@@ -1,5 +1,5 @@
 import React from 'react';
-import { SongLineData } from '../../Data/songs';
+import { dictionary, SongLineData, WordTranslation } from '../../Data/songs';
 import './Song.scss';
 
 interface ISong {
@@ -36,13 +36,37 @@ interface ISongLine {
 }
 
 const SongLine: React.FC<ISongLine> = ({ lineData, isCurrentLine }) => {
+    const _getLineWithTranslation = (): JSX.Element => {
+        const wordsArray = lineData.text.split(' ');
+        const res = wordsArray.map((word) => {
+            if (dictionary[word]) {
+                return <TranslatedWord word={word} data={dictionary[word]} />;
+            } else {
+                return <span>{word}</span>;
+            }
+        });
+        return <div className='translated-line'>{res}</div>;
+    };
+
     return (
         <div
             className={`song-line-main ${isCurrentLine ? 'active' : ''}`}
             style={{
                 backgroundColor: isCurrentLine ? 'yellow' : '',
             }}>
-            <span>{lineData.text.toUpperCase()}</span>
+            {_getLineWithTranslation()}
+        </div>
+    );
+};
+
+interface ITranslatedWord {
+    word: string;
+    data: WordTranslation;
+}
+const TranslatedWord: React.FC<ITranslatedWord> = ({ word, data }) => {
+    return (
+        <div className='translated-word-component' style={{ color: 'tomato' }}>
+            <span>{word}</span>
         </div>
     );
 };

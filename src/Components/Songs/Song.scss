@@ -7,9 +7,15 @@
     .song-lines {
         font-size: 1.2em;
         color: #393e41;
-        .line {
+        .song-line-main {
             &.active {
                 font-weight: 500;
+            }
+
+            .translated-line {
+                display: flex;
+                flex-direction: row;
+                gap: 3px;
             }
         }
     }
