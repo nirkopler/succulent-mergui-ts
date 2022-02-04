@@ -7,16 +7,29 @@
     .song-lines {
         font-size: 1.2em;
         color: #393e41;
-        .song-line-main {
-            &.active {
-                font-weight: 500;
-            }
+    }
+}
 
-            .translated-line {
-                display: flex;
-                flex-direction: row;
-                gap: 3px;
-            }
-        }
+.song-line-main {
+    &.active {
+        font-weight: 500;
+    }
+
+    .translated-line {
+        display: flex;
+        flex-direction: row;
+        gap: 3px;
+    }
+}
+
+.translated-word-component {
+    position: relative;
+
+    .translation-bubble {
+        position: absolute;
+        top: 10px;
+        background-color: #393e41;
+        color: aliceblue;
+        z-index: 2;
     }
 }

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { dictionary, SongLineData, WordTranslation } from '../../Data/songs';
 import './Song.scss';
 
@@ -64,8 +64,16 @@ interface ITranslatedWord {
     data: WordTranslation;
 }
 const TranslatedWord: React.FC<ITranslatedWord> = ({ word, data }) => {
+    const [showTranslation, setShowTranslation] = useState<boolean>(false);
+
     return (
-        <div className='translated-word-component' style={{ color: 'tomato' }}>
+        <div className='translated-word-component' style={{ color: 'tomato' }} onMouseOver={() => setShowTranslation(true)} onMouseLeave={() => setShowTranslation(false)}>
+            {showTranslation && (
+                <div className='translation-bubble'>
+                    <span>English: {data.english}</span>
+                    <span>Hebrew: {data.hebrew}</span>
+                </div>
+            )}
             <span>{word}</span>
         </div>
     );
