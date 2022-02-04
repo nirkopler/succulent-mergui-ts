@@ -1,0 +1,518 @@
+{
+    "asur": {
+        "english": "forbidden",
+        "hebrew": "אסור"
+    },
+    "ktsat": {
+        "english": "a little bit",
+        "hebrew": "קצת"
+    },
+    "lo": {
+        "english": "no",
+        "hebrew": "לא"
+    },
+    "achshav": {
+        "english": "now",
+        "hebrew": "עכשיו"
+    },
+    "mami": {
+        "english": "nickname or loved one",
+        "hebrew": "מאמי"
+    },
+    "maspik": {
+        "english": "enough",
+        "hebrew": "מספיק"
+    },
+    "gamur": {
+        "english": "done",
+        "hebrew": "גמור"
+    },
+    "kama": {
+        "english": "how many",
+        "hebrew": "כמה"
+    },
+    "rega": {
+        "english": "phrase like 'one sec'",
+        "hebrew": "רגע"
+    },
+    "kulam": {
+        "english": "everyone",
+        "hebrew": "כולם"
+    },
+    "yalla": {
+        "english": "hebrew phrase for 'do quicker'",
+        "hebrew": "יאללה"
+    },
+    "ze": {
+        "english": "this",
+        "hebrew": "זה"
+    },
+    "im": {
+        "english": "if",
+        "hebrew": "אם"
+    },
+    "krova": {
+        "english": "close to me (fem)",
+        "hebrew": "קרובה"
+    },
+    "nachon": {
+        "english": "right (true)",
+        "hebrew": "נכון"
+    },
+    "matsati": {
+        "english": "i found",
+        "hebrew": "מצאתי"
+    },
+    "yemina": {
+        "english": "to the right",
+        "hebrew": "ימינה"
+    },
+    "smola": {
+        "english": "to the left",
+        "hebrew": "שמאלה"
+    },
+    "gam": {
+        "english": "also, and",
+        "hebrew": "גם"
+    },
+    "ma": {
+        "english": "what",
+        "hebrew": "מה"
+    },
+    "ihiye": {
+        "english": "going to happen",
+        "hebrew": "יהיה"
+    },
+    "az": {
+        "english": "so (so tell me, for ex..), then",
+        "hebrew": "אז"
+    },
+    "balagan": {
+        "english": "a mess",
+        "hebrew": "בלאגן"
+    },
+    "ein": {
+        "english": "theres no..",
+        "hebrew": "אין"
+    },
+    "stam": {
+        "english": "for nothing",
+        "hebrew": "סתם"
+    },
+    "bli": {
+        "english": "without",
+        "hebrew": "בלי"
+    },
+    "otto": {
+        "english": "same, this one",
+        "hebrew": "אותו"
+    },
+    "tagidi": {
+        "english": "tell me (fem)",
+        "hebrew": "תגידי"
+    },
+    "yachol": {
+        "english": "can, able to",
+        "hebrew": "יכול"
+    },
+    "kvar": {
+        "english": "already",
+        "hebrew": "כבר"
+    },
+    "shuv": {
+        "english": "again",
+        "hebrew": "שוב"
+    },
+    "anachnu": {
+        "english": "us",
+        "hebrew": "אנחנו"
+    },
+    "lebalagan": {
+        "english": "to a mess",
+        "hebrew": "לבלאגן"
+    },
+    "shabur": {
+        "english": "broken",
+        "hebrew": "שבור"
+    },
+    "milev": {
+        "english": "from heart",
+        "hebrew": "מלב"
+    },
+    "lev": {
+        "english": "heart",
+        "hebrew": "לב"
+    },
+    "sipur": {
+        "english": "story",
+        "hebrew": "סיפור"
+    },
+    "ehad": {
+        "english": "one",
+        "hebrew": "אחד"
+    },
+    "ani": {
+        "english": "me",
+        "hebrew": "אני"
+    },
+    "sone": {
+        "english": "hate",
+        "hebrew": "שונא"
+    },
+    "lishon": {
+        "english": "to sleep",
+        "hebrew": "לישון"
+    },
+    "matz'at": {
+        "english": "you found (fem)",
+        "hebrew": "מצאת"
+    },
+    "kamoni": {
+        "english": "like me",
+        "hebrew": "כמוני"
+    },
+    "kamoh": {
+        "english": "like you (fem)",
+        "hebrew": "כמוך"
+    },
+    "od": {
+        "english": "still",
+        "hebrew": "עוד"
+    },
+    "mil'yonim": {
+        "english": "millions",
+        "hebrew": "מיליונים"
+    },
+    "lah": {
+        "english": "to you (fem)",
+        "hebrew": "לך"
+    },
+    "hazug": {
+        "english": "the couple",
+        "hebrew": "הזוג"
+    },
+    "haze": {
+        "english": "the this",
+        "hebrew": "הזה"
+    },
+    "at": {
+        "english": "you (fem)",
+        "hebrew": "את"
+    },
+    "aval": {
+        "english": "but",
+        "hebrew": "אבל"
+    },
+    "amiti": {
+        "english": "real",
+        "hebrew": "אמיתי"
+    },
+    "tni": {
+        "english": "give me (fem)",
+        "hebrew": "תני"
+    },
+    "retsinit": {
+        "english": "serious (fem) ",
+        "hebrew": "רצינית"
+    },
+    "me'ele": {
+        "english": "from those",
+        "hebrew": "מאלה"
+    },
+    "kol": {
+        "english": "all",
+        "hebrew": "כל"
+    },
+    "lekane": {
+        "english": "to jealous",
+        "hebrew": "לקנא"
+    },
+    "nihiye": {
+        "english": "us to be",
+        "hebrew": "נהיה"
+    },
+    "yad": {
+        "english": "hand",
+        "hebrew": "יד"
+    },
+    "motsi": {
+        "english": "takes out",
+        "hebrew": "מוציא"
+    },
+    "m'sovev": {
+        "english": "turn around",
+        "hebrew": "מסובב"
+    },
+    "lizrok": {
+        "english": "to throw",
+        "hebrew": "לזרוק"
+    },
+    "tochnit": {
+        "english": "a plan",
+        "hebrew": "תוכנית"
+    },
+    "hadibur": {
+        "english": "the talk",
+        "hebrew": "הדיבור"
+    },
+    "lahem": {
+        "english": "to them",
+        "hebrew": "להם"
+    },
+    "bo": {
+        "english": "lets..",
+        "hebrew": "בוא"
+    },
+    "chatuna": {
+        "english": "wedding",
+        "hebrew": "חתונה"
+    },
+    "mutar": {
+        "english": "allowed",
+        "hebrew": "מותר"
+    },
+    "yora": {
+        "english": "shoot",
+        "hebrew": "יורה"
+    },
+    "dey": {
+        "english": "like 'preety ...'",
+        "hebrew": "דיי"
+    },
+    "bafanan": {
+        "english": "hebrew phrase for 'im in fun'",
+        "hebrew": "בפאנן"
+    },
+    "hey": {
+        "english": "hi",
+        "hebrew": "היי"
+    },
+    "ken": {
+        "english": "yes",
+        "hebrew": "כן"
+    },
+    "oy": {
+        "english": "like 'oh no..'",
+        "hebrew": "אוי"
+    },
+    "ha'erev": {
+        "english": "the evening",
+        "hebrew": "הערב"
+    },
+    "po": {
+        "english": "here",
+        "hebrew": "פה"
+    },
+    "machar": {
+        "english": "tomorrow",
+        "hebrew": "מחר"
+    },
+    "hyom": {
+        "english": "today",
+        "hebrew": "היום"
+    },
+    "rak": {
+        "english": "only",
+        "hebrew": "רק"
+    },
+    "yitfesu": {
+        "english": "they catch",
+        "hebrew": "יתפסו"
+    },
+    "halaila": {
+        "english": "tonight",
+        "hebrew": "הלילה"
+    },
+    "otanu": {
+        "english": "us",
+        "hebrew": "אותנו"
+    },
+    "yesh": {
+        "english": "have, yesh, theres",
+        "hebrew": "יש"
+    },
+    "lefahot": {
+        "english": "at least",
+        "hebrew": "לפחות"
+    },
+    "beneinu": {
+        "english": "between us",
+        "hebrew": "בינינו"
+    },
+    "zman": {
+        "english": "time",
+        "hebrew": "זמן"
+    },
+    "ve'ech ": {
+        "english": "and how",
+        "hebrew": "ואיך"
+    },
+    "nishbar": {
+        "english": "broke",
+        "hebrew": "נשבר"
+    },
+    "namuch": {
+        "english": "short, low",
+        "hebrew": "נמוך"
+    },
+    "ech": {
+        "english": "how",
+        "hebrew": "איך"
+    },
+    "davar": {
+        "english": "thing",
+        "hebrew": "דבר"
+    },
+    "yaffe": {
+        "english": "looks good",
+        "hebrew": "יפה"
+    },
+    "sham": {
+        "english": "there",
+        "hebrew": "שם"
+    },
+    "af paam": {
+        "english": "never",
+        "hebrew": "אף פעם"
+    },
+    "haverim": {
+        "english": "friends",
+        "hebrew": "חברים"
+    },
+    "li": {
+        "english": "to me",
+        "hebrew": "לי"
+    },
+    "al": {
+        "english": "on, above",
+        "hebrew": "על"
+    },
+    "bah": {
+        "english": "at you (fem)",
+        "hebrew": "בך"
+    },
+    "koev": {
+        "english": "hurt",
+        "hebrew": "כואב"
+    },
+    "et": {
+        "english": "that",
+        "hebrew": "את"
+    },
+    "betach": {
+        "english": "for sure",
+        "hebrew": "בטח"
+    },
+    "la'avod": {
+        "english": "to work",
+        "hebrew": "לעבוד"
+    },
+    "meyutar": {
+        "english": "unnecessary",
+        "hebrew": "מיותר"
+    },
+    "iti": {
+        "english": "with me",
+        "hebrew": "איתי"
+    },
+    "matana": {
+        "english": "gift",
+        "hebrew": "מתנה"
+    },
+    "shelanu": {
+        "english": "of us",
+        "hebrew": "שלנו"
+    },
+    "boi": {
+        "english": "come here, lets .. (fem)",
+        "hebrew": "בואי"
+    },
+    "yoda'at": {
+        "english": "know (fem)",
+        "hebrew": "יודעת"
+    },
+    "yohav": {
+        "english": "will love",
+        "hebrew": "יאהב"
+    },
+    "otah": {
+        "english": "you (fem)",
+        "hebrew": "אותך"
+    },
+    "ha": {
+        "english": "the",
+        "hebrew": "ה"
+    },
+    "ito": {
+        "english": "with him",
+        "hebrew": "איתו"
+    },
+    "mistovevet": {
+        "english": "phrase for 'hang out with'",
+        "hebrew": "מסתובבת"
+    },
+    "rotsim": {
+        "english": "want (plural)",
+        "hebrew": "רוצים"
+    },
+    "sheyesh": {
+        "english": "that i have",
+        "hebrew": "שיש"
+    },
+    "nedaber": {
+        "english": "will talk",
+        "hebrew": "נדבר"
+    },
+    "elay": {
+        "english": "to me",
+        "hebrew": "אליי"
+    },
+    "yodea ": {
+        "english": "know (men)",
+        "hebrew": "יודע"
+    },
+    "lakum": {
+        "english": "to stand up",
+        "hebrew": "לקום"
+    },
+    "ad": {
+        "english": "until",
+        "hebrew": "עד"
+    },
+    "medamem": {
+        "english": "bleeding",
+        "hebrew": "מדמם"
+    },
+    "kashe": {
+        "english": "hard",
+        "hebrew": "קשה"
+    },
+    "terdi": {
+        "english": "come down here",
+        "hebrew": "תרדי"
+    },
+    "betov": {
+        "english": "in good",
+        "hebrew": "בטוב"
+    },
+    "bera": {
+        "english": "in bad",
+        "hebrew": "ברע"
+    },
+    "hitragalti": {
+        "english": "i used to it",
+        "hebrew": "התרגלתי"
+    },
+    "pag'ati": {
+        "english": "i hurt",
+        "hebrew": "פגעתי"
+    },
+    "levad": {
+        "english": "alone",
+        "hebrew": "לבד"
+    },
+    "lihyot": {
+        "english": "to be",
+        "hebrew": "להיות"
+    }
+}
