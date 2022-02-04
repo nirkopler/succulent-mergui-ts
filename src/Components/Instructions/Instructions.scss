@@ -1,0 +1,42 @@
+.instructions-component {
+    flex: 1;
+    padding: 10px;
+
+    .wrapper {
+        margin: 0 auto;
+        max-width: 700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        h1,
+        h2 {
+            text-decoration: underline;
+            text-decoration-color: lightgray;
+            margin: 0;
+        }
+        p {
+            margin: 0;
+        }
+
+        .greeting {
+            font-size: 1.2em;
+        }
+
+        .instructions {
+            display: flex;
+            flex-direction: column;
+            font-size: 1.2em;
+
+            .bold-mark {
+                font-weight: 500;
+                background-color: lightgray;
+            }
+
+            .tran-word {
+                text-decoration: underline;
+                text-decoration-color: tomato;
+            }
+        }
+    }
+}

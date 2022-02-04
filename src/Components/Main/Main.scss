@@ -1,7 +1,13 @@
 .main-component {
     max-width: 992px;
-    height: 100%;
+    min-height: 100vh;
+    position: relative;
     margin: 0 auto;
-    // background-color: lightcoral;
     background-color: ivory;
+    display: flex;
+    flex-direction: column;
+
+    &.loader {
+        overflow: hidden;
+    }
 }

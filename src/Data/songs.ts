@@ -384,11 +384,11 @@ const songMerguiMaYihiye: SongData = {
             time: 259,
         },
         {
-            text: '  ma ihiye ma ihiye ma',
+            text: 'ma ihiye ma ihiye ma',
             time: 265,
         },
         {
-            text: '  ma ihiye ma ihiye ma',
+            text: 'ma ihiye ma ihiye ma',
             time: 270,
         },
         {
@@ -396,19 +396,19 @@ const songMerguiMaYihiye: SongData = {
             time: 273,
         },
         {
-            text: '  Lo yodea mami ma ihiye',
+            text: 'Lo yodea mami ma ihiye',
             time: 275,
         },
         {
-            text: '  Im harivim beneinu ma ihiye',
+            text: 'Im harivim beneinu ma ihiye',
             time: 278,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 281,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 284,
         },
         {
@@ -416,19 +416,19 @@ const songMerguiMaYihiye: SongData = {
             time: 285,
         },
         {
-            text: '  Lo yodea mami ma ihiye',
+            text: 'Lo yodea mami ma ihiye',
             time: 286,
         },
         {
-            text: '  Im harivim beneinu ma ihiye',
+            text: 'Im harivim beneinu ma ihiye',
             time: 289,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 292,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 295,
         },
         {
@@ -436,19 +436,19 @@ const songMerguiMaYihiye: SongData = {
             time: 297,
         },
         {
-            text: '  Tni li siman',
+            text: 'Tni li siman',
             time: 299,
         },
         {
-            text: "  She'ulai lo stam sarafnu zman",
+            text: "She'ulai lo stam sarafnu zman",
             time: 302,
         },
         {
-            text: "  Belalechet bli lir'ot le'an",
+            text: "Belalechet bli lir'ot le'an",
             time: 305,
         },
         {
-            text: '  Vehaya shaveh lisrod ad kan',
+            text: 'Vehaya shaveh lisrod ad kan',
             time: 307,
         },
         {
@@ -456,19 +456,19 @@ const songMerguiMaYihiye: SongData = {
             time: 309,
         },
         {
-            text: "  Ve'ech she'att yora boom boom",
+            text: "Ve'ech she'att yora boom boom",
             time: 310,
         },
         {
-            text: '  Kol mila shniya toch shniya boom boom',
+            text: 'Kol mila shniya toch shniya boom boom',
             time: 312,
         },
         {
-            text: '  Medamem al haritspa lo yachol lakum',
+            text: 'Medamem al haritspa lo yachol lakum',
             time: 315,
         },
         {
-            text: "  Ad shehigat lo nish'ar mimeni klum klum",
+            text: "Ad shehigat lo nish'ar mimeni klum klum",
             time: 318,
         },
         {
@@ -476,19 +476,19 @@ const songMerguiMaYihiye: SongData = {
             time: 319,
         },
         {
-            text: '  Hayinu betov nihiyenu bera',
+            text: 'Hayinu betov nihiyenu bera',
             time: 321,
         },
         {
-            text: '  Boi nishkach et ma shekara',
+            text: 'Boi nishkach et ma shekara',
             time: 324,
         },
         {
-            text: "  Az tagidi im ze kvar me'uchar",
+            text: "Az tagidi im ze kvar me'uchar",
             time: 327,
         },
         {
-            text: '  Ohev otach gam im ze nigmar',
+            text: 'Ohev otach gam im ze nigmar',
             time: 331,
         },
         {
@@ -496,19 +496,19 @@ const songMerguiMaYihiye: SongData = {
             time: 332,
         },
         {
-            text: '  Lo yodea mami ma ihiye',
+            text: 'Lo yodea mami ma ihiye',
             time: 333,
         },
         {
-            text: '  Im harivim beneinu ma ihiye',
+            text: 'Im harivim beneinu ma ihiye',
             time: 336,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 339,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 341,
         },
         {
@@ -516,19 +516,19 @@ const songMerguiMaYihiye: SongData = {
             time: 343,
         },
         {
-            text: '  Lo yodea mami ma ihiye',
+            text: 'Lo yodea mami ma ihiye',
             time: 344,
         },
         {
-            text: '  Im harivim beneinu ma ihiye',
+            text: 'Im harivim beneinu ma ihiye',
             time: 347,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 350,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 353,
         },
         {
@@ -536,19 +536,19 @@ const songMerguiMaYihiye: SongData = {
             time: 354,
         },
         {
-            text: '  Im ze shuv otto sipur',
+            text: 'Im ze shuv otto sipur',
             time: 355,
         },
         {
-            text: '  Nishbar li kvar milev shabur',
+            text: 'Nishbar li kvar milev shabur',
             time: 358,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 361,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 364,
         },
         {
@@ -556,19 +556,19 @@ const songMerguiMaYihiye: SongData = {
             time: 366,
         },
         {
-            text: '  Gam li kashe',
+            text: 'Gam li kashe',
             time: 368,
         },
         {
-            text: '  Yodea shepagati dey harbe',
+            text: 'Yodea shepagati dey harbe',
             time: 371,
         },
         {
-            text: '  Achshav levad choshev al ze',
+            text: 'Achshav levad choshev al ze',
             time: 374,
         },
         {
-            text: '  Gam att dibart ktsat lo yaffe',
+            text: 'Gam att dibart ktsat lo yaffe',
             time: 377,
         },
         {
@@ -576,19 +576,19 @@ const songMerguiMaYihiye: SongData = {
             time: 378,
         },
         {
-            text: '  Az mami al terdi namuch',
+            text: 'Az mami al terdi namuch',
             time: 379,
         },
         {
-            text: "  Betoch ha'ahava att matsat lichluch",
+            text: "Betoch ha'ahava att matsat lichluch",
             time: 381,
         },
         {
-            text: "  Anachnu kmo mar'ah, rak chasser chiyuch",
+            text: "Anachnu kmo mar'ah, rak chasser chiyuch",
             time: 384,
         },
         {
-            text: '  Bidyuk otto davar rak hakol hafuch',
+            text: 'Bidyuk otto davar rak hakol hafuch',
             time: 387,
         },
         {
@@ -596,31 +596,31 @@ const songMerguiMaYihiye: SongData = {
             time: 389,
         },
         {
-            text: '  Yesh drama kan',
+            text: 'Yesh drama kan',
             time: 390,
         },
         {
-            text: '  Ma kara',
+            text: 'Ma kara',
             time: 391,
         },
         {
-            text: '  Ani bafanan',
+            text: 'Ani bafanan',
             time: 392,
         },
         {
-            text: '  Shachreri li',
+            text: 'Shachreri li',
             time: 393,
         },
         {
-            text: '  Ein zman lebalagan',
+            text: 'Ein zman lebalagan',
             time: 394,
         },
         {
-            text: "  Zocheret ech ze pa'am haya",
+            text: "Zocheret ech ze pa'am haya",
             time: 396,
         },
         {
-            text: '  Az tagidi li ma nihiyet li shona',
+            text: 'Az tagidi li ma nihiyet li shona',
             time: 398,
         },
         {
@@ -628,35 +628,35 @@ const songMerguiMaYihiye: SongData = {
             time: 402,
         },
         {
-            text: '  Lo yodea mami ma ihiye',
+            text: 'Lo yodea mami ma ihiye',
             time: 402,
         },
         {
-            text: '  Im harivim beneinu ma ihiye',
+            text: 'Im harivim beneinu ma ihiye',
             time: 406,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 410,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 410,
         },
         {
-            text: '  Im ze shuv otto sipur',
+            text: 'Im ze shuv otto sipur',
             time: 412,
         },
         {
-            text: '  Nishbar li kvar milev shabur',
+            text: 'Nishbar li kvar milev shabur',
             time: 415,
         },
         {
-            text: '  Az tagidi mami ma ihiye',
+            text: 'Az tagidi mami ma ihiye',
             time: 419,
         },
         {
-            text: '  Ein zman mami ma ihiye',
+            text: 'Ein zman mami ma ihiye',
             time: 421,
         },
     ],
@@ -1403,3 +1403,39 @@ export const dictionary: WordTranslationMap = {
     ze: new WordTranslation('this', 'זה'),
     zman: new WordTranslation('time', 'זמן'),
 };
+
+// const [dic, setDic] = useState<WordTranslationMap>({});
+
+// const [word, setWord] = useState<string>('');
+// const [eng, setEng] = useState<string>('');
+// const [heb, setHeb] = useState<string>('');
+
+// const addWord = (e: any) => {
+//     e.preventDefault();
+//     setDic({ ...dic, [word]: new WordTranslation(eng, heb) });
+//     setWord('');
+//     setEng('');
+//     setHeb('');
+// };
+
+// useEffect(() => {
+//     console.log(dic);
+// }, [dic]);
+
+/* <div className='dic-test'>
+    <form onSubmit={addWord}>
+        <span>word</span>
+        <br />
+        <input type='text' name='word' onChange={(e) => setWord(e.target.value.toLocaleLowerCase())} value={word} />
+        <br />
+        <span>eng</span>
+        <br />
+        <input type='text' name='english' onChange={(e) => setEng(e.target.value.toLocaleLowerCase())} value={eng} />
+        <br />
+        <span>heb</span>
+        <br />
+        <input type='text' name='hebrew' onChange={(e) => setHeb(e.target.value)} value={heb} />
+        <br />
+        <button type='submit'>add word</button>
+    </form>
+</div> */

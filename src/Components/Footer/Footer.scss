@@ -1,0 +1,22 @@
+.footer-component {
+    height: fit-content;
+    margin-top: 10px;
+    background-color: pink;
+
+    .wrapper {
+        margin: 0 auto;
+        max-width: 400px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px;
+        font-size: 1.1em;
+        color: #333;
+        a {
+            text-decoration: none;
+            font-weight: 500;
+            color: purple;
+        }
+    }
+}
