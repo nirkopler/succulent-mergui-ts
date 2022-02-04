@@ -1,0 +1,326 @@
+PLUS EHAD
+start - 490
+end - 704
+
+Ani sone lishon be-alahson
+Ulay kvar hitragalti
+Lihyot avud be-hol makom
+Adain lo matz'ati
+ 
+Ani hipasti ba-rhovot
+Raiti sham otah yotzet le-mekomot
+Im plus ehad ba-reshimot
+Ve-im hotemet al ha-lev
+Matz'at ehad
+She-yodea she-pag'ati bah mil'yonim
+Aval af ehad
+Af paam lo yohav otah kamoni
+Ehad, she-yodea she-pag'ati bah mil'yonim
+Af ehad af paam lo yohav otah kamoni
+ 
+Haverim omrim li leshanot gisha
+Aval ani kvar hitragalti
+Matzmidim li mishehi hadasha
+Aval kamoh od lo matz'ati
+ 
+Ani hipasti ba-rhovot
+Raiti sham otah yotzet le-mekomot
+Im plus ehad ba-reshimot
+Ve-im hotemet al ha-lev
+Matz'at ehad
+She-yodea she-pag'ati bah mil'yonim
+Aval af ehad
+Af paam lo yohav otah kamoni
+Ehad, she-yodea she-pag'ati bah mil'yonim
+Af ehad af paam lo yohav otah kamoni
+ 
+Matz'at lah plus ehad
+Ito at mistovevet
+Lo lihyot levad
+At regila lihyot kohevet
+Nish'ar minus ba-lev
+Ve-ze adain koev
+Matz'at lah plus ehad
+Matz'at lah ehad
+
+Matz'at lah plus ehad
+Ito at mistovevet
+Lo lihyot levad
+At regila lihyot kohevet
+Nish'ar minus ba-lev
+Ve-ze adain koev
+Matz'at lah plus ehad
+Matz'at lah ehad
+
+Matz'at ehad
+She-yodea she-pag'ati bah mil'yonim
+Aval af ehad
+Af paam lo yohav otah kamoni
+
+Matz'at lah plus ehad
+Matz'at lah ehad
+Matz'at lah plus ehad
+Matz'at lah ehad
+Matz'at lah plus ehad
+Matz'at lah ehad
+Matz'at lah plus ehad
+Matz'at lah ehad
+She-yodea she-pag'ati
+Matz'at lah 
+------------------------------------------------
+
+
+[
+    {
+        "text": "Ani sone lishon be-alahson",
+        "time": 507
+    },
+    {
+        "text": "Ulay kvar hitragalti",
+        "time": 512
+    },
+    {
+        "text": "Lihyot avud be-hol makom",
+        "time": 516
+    },
+    {
+        "text": "Adain lo matz'ati",
+        "time": 521
+    },
+    {
+        "text": "",
+        "time": 523
+    },
+    {
+        "text": "Ani hipasti ba-rhovot",
+        "time": 524
+    },
+    {
+        "text": "Raiti sham otah yotzet le-mekomot",
+        "time": 528
+    },
+    {
+        "text": "Im plus ehad ba-reshimot",
+        "time": 532
+    },
+    {
+        "text": "Ve-im hotemet al ha-lev",
+        "time": 536
+    },
+    {
+        "text": "Matz'at ehad",
+        "time": 538
+    },
+    {
+        "text": "She-yodea she-pag'ati bah mil'yonim",
+        "time": 541
+    },
+    {
+        "text": "Aval af ehad",
+        "time": 546
+    },
+    {
+        "text": "Af paam lo yohav otah kamoni",
+        "time": 549
+    },
+    {
+        "text": "Ehad, she-yodea she-pag'ati bah mil'yonim",
+        "time": 555
+    },
+    {
+        "text": "Af ehad af paam lo yohav otah kamoni",
+        "time": 562
+    },
+    {
+        "text": "",
+        "time": 570
+    },
+    {
+        "text": "Haverim omrim li leshanot gisha",
+        "time": 573
+    },
+    {
+        "text": "Aval ani kvar hitragalti",
+        "time": 577
+    },
+    {
+        "text": "Matzmidim li mishehi hadasha",
+        "time": 581
+    },
+    {
+        "text": "Aval kamoh od lo matz'ati",
+        "time": 585
+    },
+    {
+        "text": "",
+        "time": 588
+    },
+    {
+        "text": "Ani hipasti ba-rhovot",
+        "time": 588
+    },
+    {
+        "text": "Raiti sham otah yotzet le-mekomot",
+        "time": 592
+    },
+    {
+        "text": "Im plus ehad ba-reshimot",
+        "time": 596
+    },
+    {
+        "text": "Ve-im hotemet al ha-lev",
+        "time": 600
+    },
+    {
+        "text": "Matz'at ehad",
+        "time": 603
+    },
+    {
+        "text": "She-yodea she-pag'ati bah mil'yonim",
+        "time": 605
+    },
+    {
+        "text": "Aval af ehad",
+        "time": 611
+    },
+    {
+        "text": "Af paam lo yohav otah kamoni",
+        "time": 614
+    },
+    {
+        "text": "Ehad, she-yodea she-pag'ati bah mil'yonim",
+        "time": 617
+    },
+    {
+        "text": "Af ehad af paam lo yohav otah kamoni",
+        "time": 627
+    },
+    {
+        "text": "",
+        "time": 636
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 636
+    },
+    {
+        "text": "Ito at mistovevet",
+        "time": 638
+    },
+    {
+        "text": "Lo lihyot levad",
+        "time": 640
+    },
+    {
+        "text": "At regila lihyot kohevet",
+        "time": 642
+    },
+    {
+        "text": "Nish'ar minus ba-lev",
+        "time": 644
+    },
+    {
+        "text": "Ve-ze adain koev",
+        "time": 646
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 648
+    },
+    {
+        "text": "Matz'at lah ehad",
+        "time": 650
+    },
+    {
+        "text": "",
+        "time": 651
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 652
+    },
+    {
+        "text": "Ito at mistovevet",
+        "time": 654
+    },
+    {
+        "text": "Lo lihyot levad",
+        "time": 656
+    },
+    {
+        "text": "At regila lihyot kohevet",
+        "time": 658
+    },
+    {
+        "text": "Nish'ar minus ba-lev",
+        "time": 660
+    },
+    {
+        "text": "Ve-ze adain koev",
+        "time": 662
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 664
+    },
+    {
+        "text": "Matz'at lah ehad",
+        "time": 668
+    },
+    {
+        "text": "",
+        "time": 668
+    },
+    {
+        "text": "Matz'at ehad",
+        "time": 669
+    },
+    {
+        "text": "She-yodea she-pag'ati bah mil'yonim",
+        "time": 670
+    },
+    {
+        "text": "Aval af ehad",
+        "time": 677
+    },
+    {
+        "text": "Af paam lo yohav otah kamoni",
+        "time": 679
+    },
+    {
+        "text": "",
+        "time": 684
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 685
+    },
+    {
+        "text": "Matz'at lah ehad",
+        "time": 687
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 689
+    },
+    {
+        "text": "Matz'at lah ehad",
+        "time": 691
+    },
+    {
+        "text": "Matz'at lah plus ehad",
+        "time": 693
+    },
+    {
+        "text": "Matz'at lah ehad",
+        "time": 695
+    },
+    {
+        "text": "She-yodea she-pag'ati",
+        "time": 697
+    },
+    {
+        "text": "Matz'at lah ",
+        "time": 701
+    }
+]
