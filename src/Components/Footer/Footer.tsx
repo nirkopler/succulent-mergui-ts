@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
             <div className='wrapper'>
                 <span>
                     By{' '}
-                    <a href='https://github.com/nirkopler/' target='_blank'>
+                    <a href='https://github.com/nirkopler/' target='_blank' rel='noreferrer'>
                         @nirkopler
                     </a>
                 </span>

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { SongLineData, merguiSongsData, SongData } from '../../Data/songs';
 import Footer from '../Footer/Footer';
 import Instructions from '../Instructions/Instructions';
@@ -12,6 +12,7 @@ const Main: React.FC = () => {
     const [currentIndex, setCurrentIndex] = useState<number>(0);
     const [currentSong, setCurrentSong] = useState<SongData | null>();
     const [showLoadPage, setLoadShowPage] = useState<boolean>(true);
+    const bottomRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
         const delay = setTimeout(() => {
@@ -35,6 +36,10 @@ const Main: React.FC = () => {
         }
     }, [currentTime]);
 
+    useEffect(() => {
+        if (!showLoadPage) bottomRef?.current?.scrollIntoView({ behavior: 'smooth' });
+    }, [showLoadPage]);
+
     return (
         <div className={`main-component ${showLoadPage ? 'loader' : ''}`}>
             {showLoadPage && <Loader />}
@@ -46,6 +51,7 @@ const Main: React.FC = () => {
             ) : (
                 <></>
             )}
+            <div ref={bottomRef} className='auto-scroll' />
             <Footer />
         </div>
     );
