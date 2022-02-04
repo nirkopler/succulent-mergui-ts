@@ -48,15 +48,7 @@ const SongLine: React.FC<ISongLine> = ({ lineData, isCurrentLine }) => {
         return <div className='translated-line'>{res}</div>;
     };
 
-    return (
-        <div
-            className={`song-line-main ${isCurrentLine ? 'active' : ''}`}
-            style={{
-                backgroundColor: isCurrentLine ? 'yellow' : '',
-            }}>
-            {_getLineWithTranslation()}
-        </div>
-    );
+    return <div className={`song-line-main ${isCurrentLine ? 'active' : ''}`}>{_getLineWithTranslation()}</div>;
 };
 
 interface ITranslatedWord {
@@ -67,14 +59,17 @@ const TranslatedWord: React.FC<ITranslatedWord> = ({ word, data }) => {
     const [showTranslation, setShowTranslation] = useState<boolean>(false);
 
     return (
-        <div className='translated-word-component' style={{ color: 'tomato' }} onMouseOver={() => setShowTranslation(true)} onMouseLeave={() => setShowTranslation(false)}>
+        <div
+            className='translated-word-component'
+            onMouseOver={() => setShowTranslation(true)}
+            onMouseLeave={() => setShowTranslation(false)}>
             {showTranslation && (
                 <div className='translation-bubble'>
-                    <span>English: {data.english}</span>
-                    <span>Hebrew: {data.hebrew}</span>
+                    <span className='translation-lang'>English: {data.english}</span>
+                    <span className='translation-lang'>Hebrew: {data.hebrew}</span>
                 </div>
             )}
-            <span>{word}</span>
+            <span className='word'>{word}</span>
         </div>
     );
 };

@@ -11,7 +11,9 @@ const Main: React.FC = () => {
     const [dic, setDic] = useState<WordTranslationMap>({});
 
     useEffect(() => {
-        const _currentSong: SongData | undefined = merguiSongsData.find((song: SongData) => song.start <= currentTime && currentTime <= song.end);
+        const _currentSong: SongData | undefined = merguiSongsData.find(
+            (song: SongData) => song.start <= currentTime && currentTime <= song.end
+        );
 
         if (_currentSong) {
             setCurrentSong(_currentSong);
@@ -24,26 +26,26 @@ const Main: React.FC = () => {
         }
     }, [currentTime]);
 
-    const [word, setWord] = useState<string>('');
-    const [eng, setEng] = useState<string>('');
-    const [heb, setHeb] = useState<string>('');
+    // const [word, setWord] = useState<string>('');
+    // const [eng, setEng] = useState<string>('');
+    // const [heb, setHeb] = useState<string>('');
 
-    const addWord = (e: any) => {
-        e.preventDefault();
-        setDic({ ...dic, [word]: new WordTranslation(eng, heb) });
-        setWord('');
-        setEng('');
-        setHeb('');
-    };
+    // const addWord = (e: any) => {
+    //     e.preventDefault();
+    //     setDic({ ...dic, [word]: new WordTranslation(eng, heb) });
+    //     setWord('');
+    //     setEng('');
+    //     setHeb('');
+    // };
 
-    useEffect(() => {
-        console.log(dic);
-    }, [dic]);
+    // useEffect(() => {
+    //     console.log(dic);
+    // }, [dic]);
 
     return (
         <div className='main-component'>
             <Player currentTimeCallback={(t) => setCurrentTime(t)} />
-            <div className='dic-test'>
+            {/* <div className='dic-test'>
                 <form onSubmit={addWord}>
                     <span>word</span>
                     <br />
@@ -59,7 +61,7 @@ const Main: React.FC = () => {
                     <br />
                     <button type='submit'>add word</button>
                 </form>
-            </div>
+            </div> */}
             {currentSong ? <Song title={currentSong.name} data={currentSong.data} currentIndex={currentIndex} /> : <h1>🦝</h1>}
         </div>
     );

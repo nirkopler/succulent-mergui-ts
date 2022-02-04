@@ -11,13 +11,18 @@
 }
 
 .song-line-main {
+    width: fit-content;
     &.active {
-        font-weight: 500;
+        .translated-line {
+            font-weight: 500;
+            background-color: lightgray;
+        }
     }
 
     .translated-line {
         display: flex;
         flex-direction: row;
+        flex-wrap: wrap;
         gap: 3px;
     }
 }
@@ -25,11 +30,21 @@
 .translated-word-component {
     position: relative;
 
+    .word {
+        text-decoration: underline;
+        text-decoration-color: tomato;
+    }
+
     .translation-bubble {
         position: absolute;
+        display: flex;
+        flex-direction: column;
+        padding: 7px;
+        border-radius: 3px;
+        z-index: 2;
         top: 10px;
         background-color: #393e41;
         color: aliceblue;
-        z-index: 2;
+        white-space: nowrap;
     }
 }
