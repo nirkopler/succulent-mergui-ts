@@ -41,7 +41,7 @@ const Main: React.FC = () => {
     }, [showLoadPage]);
 
     return (
-        <div className={`main-component ${showLoadPage ? 'loader' : ''}`}>
+        <div className={`main-component ${showLoadPage ? 'is-loader' : ''}`}>
             {showLoadPage && <Loader />}
             <Player currentTimeCallback={(t) => setCurrentTime(t)} />
             <div ref={bottomRef} className='auto-scroll' />
