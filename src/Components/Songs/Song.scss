@@ -36,17 +36,18 @@
     .word {
         text-decoration: underline;
         text-decoration-color: tomato;
+
+        &.active {
+            background-color: lightcyan;
+        }
     }
 
     .translation-bubble {
-        position: absolute;
         display: flex;
         flex-direction: column;
         padding: 7px;
         border-radius: 3px;
         z-index: 2;
-        top: 20px;
-        left: -20px;
         background-color: #393e41;
         color: aliceblue;
         white-space: nowrap;
