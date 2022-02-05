@@ -75,7 +75,7 @@ const TranslatedWord: React.FC<ITranslatedWord> = ({ word, data }) => {
                 setBubblePosition(positionCalc);
             }
         }
-    }, [showTranslation]);
+    }, [showTranslation, screenWidth]);
 
     const _handleMouseOver = (e: React.MouseEvent): void => {
         if (!showTranslation) {

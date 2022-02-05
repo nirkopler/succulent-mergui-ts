@@ -6,11 +6,17 @@ the concept is to help understand hebrew songs by giving literal translation wit
 
 ---
 
-[click here to see it on action! 🙃](https://nirkopler.github.io/succulent-mergui-ts/)
+[click here to see it in action! 🙃](https://nirkopler.github.io/succulent-mergui-ts/)
 
 ---
 
 ## <u>Progress</u>
+
+##### 05/02/2022
+
+-   better handling with translation box position
+-   minor UI fixes
+-   add mark current translated word
 
 ##### 04/02/2022 - finish 😁🔥
 
