@@ -38,14 +38,14 @@ interface ISongLine {
 
 const SongLine: React.FC<ISongLine> = ({ lineData, isCurrentLine }) => {
     const _getLineWithTranslation = (): JSX.Element => {
-        const wordsArray = lineData.text.split(' ');
+        const wordsArray = lineData.text.split(/(?:,| )+/);
         const res = wordsArray.map((word) => {
             const _word: string = word.toLocaleLowerCase();
             const _data: WordTranslation = dictionary[_word];
             if (_data) {
                 return <TranslatedWord word={_word} data={_data} />;
             } else {
-                return <span>{word}</span>;
+                return <span>{_word}</span>;
             }
         });
         return <div className='translated-line'>{res}</div>;

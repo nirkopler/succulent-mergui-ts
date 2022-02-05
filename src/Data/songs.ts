@@ -676,7 +676,7 @@ const songMerguiPlusEhad: SongData = {
             time: 512,
         },
         {
-            text: 'Lihyot avud be-hol makom',
+            text: 'Lihyot avud be-hol-makom',
             time: 516,
         },
         {
@@ -716,7 +716,7 @@ const songMerguiPlusEhad: SongData = {
             time: 546,
         },
         {
-            text: 'Af paam lo yohav otah kamoni',
+            text: 'af-paam lo yohav otah kamoni',
             time: 549,
         },
         {
@@ -724,7 +724,7 @@ const songMerguiPlusEhad: SongData = {
             time: 555,
         },
         {
-            text: 'Af ehad af paam lo yohav otah kamoni',
+            text: 'Af ehad af-paam lo yohav otah kamoni',
             time: 562,
         },
         {
@@ -780,7 +780,7 @@ const songMerguiPlusEhad: SongData = {
             time: 611,
         },
         {
-            text: 'Af paam lo yohav otah kamoni',
+            text: 'af-paam lo yohav otah kamoni',
             time: 614,
         },
         {
@@ -788,7 +788,7 @@ const songMerguiPlusEhad: SongData = {
             time: 617,
         },
         {
-            text: 'Af ehad af paam lo yohav otah kamoni',
+            text: 'Af ehad af-paam lo yohav otah kamoni',
             time: 627,
         },
         {
@@ -880,7 +880,7 @@ const songMerguiPlusEhad: SongData = {
             time: 677,
         },
         {
-            text: 'Af paam lo yohav otah kamoni',
+            text: 'af-paam lo yohav otah kamoni',
             time: 679,
         },
         {
@@ -1275,7 +1275,7 @@ export interface WordTranslationMap {
 export const dictionary: WordTranslationMap = {
     achshav: new WordTranslation('now', 'עכשיו'),
     ad: new WordTranslation('until', 'עד'),
-    'af paam': new WordTranslation('never', 'אף פעם'),
+    'af-paam': new WordTranslation('never', 'אף פעם'),
     al: new WordTranslation('on, above', 'על'),
     amiti: new WordTranslation('real', 'אמיתי'),
     anachnu: new WordTranslation('us', 'אנחנו'),
@@ -1402,40 +1402,18 @@ export const dictionary: WordTranslationMap = {
     yora: new WordTranslation('shoot', 'יורה'),
     ze: new WordTranslation('this', 'זה'),
     zman: new WordTranslation('time', 'זמן'),
+    ulay: new WordTranslation('maybe', 'אולי'),
+    'af ehad': new WordTranslation('no one', 'אף אחד'),
+    leshanot: new WordTranslation('to change', 'לשנות'),
+    "shki'ah": new WordTranslation('sunset', 'שקיעה'),
+    mechonit: new WordTranslation('car', 'מכונית'),
+    yotzet: new WordTranslation('go out (fem)', 'יוצאת'),
+    'be-hol-makom': new WordTranslation('everywhere', 'בכל מקום'),
+    hipasti: new WordTranslation('I searched', 'חיפשתי'),
+    hotemet: new WordTranslation('stamp', 'חותמת'),
+    shniya: new WordTranslation('one second', 'שניה'),
+    mimeni: new WordTranslation('from me', 'ממני'),
+    klum: new WordTranslation('nothing', 'כלום'),
+    chaverim: new WordTranslation('friends', 'חברים'),
+    hafuch: new WordTranslation('upside down', 'הפוך'),
 };
-
-// const [dic, setDic] = useState<WordTranslationMap>({});
-
-// const [word, setWord] = useState<string>('');
-// const [eng, setEng] = useState<string>('');
-// const [heb, setHeb] = useState<string>('');
-
-// const addWord = (e: any) => {
-//     e.preventDefault();
-//     setDic({ ...dic, [word]: new WordTranslation(eng, heb) });
-//     setWord('');
-//     setEng('');
-//     setHeb('');
-// };
-
-// useEffect(() => {
-//     console.log(dic);
-// }, [dic]);
-
-/* <div className='dic-test'>
-    <form onSubmit={addWord}>
-        <span>word</span>
-        <br />
-        <input type='text' name='word' onChange={(e) => setWord(e.target.value.toLocaleLowerCase())} value={word} />
-        <br />
-        <span>eng</span>
-        <br />
-        <input type='text' name='english' onChange={(e) => setEng(e.target.value.toLocaleLowerCase())} value={eng} />
-        <br />
-        <span>heb</span>
-        <br />
-        <input type='text' name='hebrew' onChange={(e) => setHeb(e.target.value)} value={heb} />
-        <br />
-        <button type='submit'>add word</button>
-    </form>
-</div> */
