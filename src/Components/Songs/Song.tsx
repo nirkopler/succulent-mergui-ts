@@ -39,8 +39,10 @@ const SongLine: React.FC<ISongLine> = ({ lineData, isCurrentLine }) => {
     const _getLineWithTranslation = (): JSX.Element => {
         const wordsArray = lineData.text.split(' ');
         const res = wordsArray.map((word) => {
-            if (dictionary[word]) {
-                return <TranslatedWord word={word} data={dictionary[word]} />;
+            const _word: string = word.toLocaleLowerCase();
+            const _data: WordTranslation = dictionary[_word];
+            if (_data) {
+                return <TranslatedWord word={_word} data={_data} />;
             } else {
                 return <span>{word}</span>;
             }
