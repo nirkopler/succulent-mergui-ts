@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/succulent-mergui-ts/static/css/main.242fea5d.css",
-    "main.js": "/succulent-mergui-ts/static/js/main.57120537.js",
+    "main.js": "/succulent-mergui-ts/static/js/main.539b65dd.js",
     "static/js/787.1bd25d2f.chunk.js": "/succulent-mergui-ts/static/js/787.1bd25d2f.chunk.js",
     "index.html": "/succulent-mergui-ts/index.html",
     "main.242fea5d.css.map": "/succulent-mergui-ts/static/css/main.242fea5d.css.map",
-    "main.57120537.js.map": "/succulent-mergui-ts/static/js/main.57120537.js.map",
+    "main.539b65dd.js.map": "/succulent-mergui-ts/static/js/main.539b65dd.js.map",
     "787.1bd25d2f.chunk.js.map": "/succulent-mergui-ts/static/js/787.1bd25d2f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.242fea5d.css",
-    "static/js/main.57120537.js"
+    "static/js/main.539b65dd.js"
   ]
 }
