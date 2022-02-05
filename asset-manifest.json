@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/succulent-mergui-ts/static/css/main.029c1747.css",
-    "main.js": "/succulent-mergui-ts/static/js/main.beff2bfa.js",
+    "main.css": "/succulent-mergui-ts/static/css/main.242fea5d.css",
+    "main.js": "/succulent-mergui-ts/static/js/main.57120537.js",
     "static/js/787.1bd25d2f.chunk.js": "/succulent-mergui-ts/static/js/787.1bd25d2f.chunk.js",
     "index.html": "/succulent-mergui-ts/index.html",
-    "main.029c1747.css.map": "/succulent-mergui-ts/static/css/main.029c1747.css.map",
-    "main.beff2bfa.js.map": "/succulent-mergui-ts/static/js/main.beff2bfa.js.map",
+    "main.242fea5d.css.map": "/succulent-mergui-ts/static/css/main.242fea5d.css.map",
+    "main.57120537.js.map": "/succulent-mergui-ts/static/js/main.57120537.js.map",
     "787.1bd25d2f.chunk.js.map": "/succulent-mergui-ts/static/js/787.1bd25d2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.029c1747.css",
-    "static/js/main.beff2bfa.js"
+    "static/css/main.242fea5d.css",
+    "static/js/main.57120537.js"
   ]
 }
