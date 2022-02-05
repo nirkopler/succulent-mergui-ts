@@ -44,6 +44,7 @@ const Main: React.FC = () => {
         <div className={`main-component ${showLoadPage ? 'loader' : ''}`}>
             {showLoadPage && <Loader />}
             <Player currentTimeCallback={(t) => setCurrentTime(t)} />
+            <div ref={bottomRef} className='auto-scroll' />
             {currentSong ? (
                 <Song title={currentSong.name} data={currentSong.data} currentIndex={currentIndex} />
             ) : !showLoadPage ? (
@@ -51,7 +52,6 @@ const Main: React.FC = () => {
             ) : (
                 <></>
             )}
-            <div ref={bottomRef} className='auto-scroll' />
             <Footer />
         </div>
     );
